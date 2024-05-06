@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625071001868",
+    "project_id": "antitheft-38a44",
+    "storage_bucket": "antitheft-38a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625071001868:android:d700b56c061ab9c6377929",
+        "android_client_info": {
+          "package_name": "com.example.antitheft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbqOcvBU2KKlyxhMbvlk1jE83gcw16Xh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
