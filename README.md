@@ -18,3 +18,6 @@ Firebase Authentication
 RealTime Database
 Sensors(proximity,accelerator,Charager Detection)
 Shared Preferences 
+
+To Download App and Use it here is the link to download APK
+https://drive.google.com/file/d/1nHux7hT6wHj3X-4QhQ6fvnWy_iHbIAAI/view
